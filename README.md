@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lachylegend
-- 👀 I’m interested in boom, python
-- 🌱 I’m currently learning how make mods
+- 👀 I’m interested in boom, making games
+- 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on a boom unity project
 - 📫 How to reach me --> lachylegend#5946 on discord
 
