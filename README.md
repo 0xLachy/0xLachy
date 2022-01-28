@@ -7,6 +7,7 @@
 ---
 <!--
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lachylegend&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+[![GitHub Game of Life](https://github4life.herokuapp.com/lachylegend.gif?z=6)](https://github4life.herokuapp.com/lachylegend)
 -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lachylegend&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true)
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com?user=lachylegend&theme=chartreuse-dark)
